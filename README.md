@@ -25,4 +25,4 @@
 </div>
     
     
-![Snake animation](https://github.com/gih-ferreira/gih-ferreira/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gih-ferreira/gih-ferreira/blob/output/github-contribution-grid-snake.svg)
