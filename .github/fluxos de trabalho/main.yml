@@ -14,7 +14,7 @@ trabalhos :
       - usa : Platane/snk@master
         id : cobra-gif
         com :
-          github_user_name :gih-ferreira
+          github_user_name: gih-ferreira
           svg_out_path : dist/github-contribution-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
