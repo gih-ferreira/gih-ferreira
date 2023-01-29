@@ -1,7 +1,7 @@
     Olá eu sou a Giovanna Ferreira👋🏽 
     
 - 🔭 Atualmente estou estagiando na área de suporte de TI
-- 🌱 I’m currently learn front-end
+- 🌱 Estou aprendendo front-end
 - ✉️ Contate-me no email: giovannaferreira-silva@hotmail.com
 - 😁 Pronouns: Ela/Dela 
 
