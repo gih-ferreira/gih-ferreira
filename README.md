@@ -16,5 +16,8 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="HTML" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="CSS" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/928041453932912650/1069052427501830265/Design_sem_nome.gif">
-</div>
+<img align="right" alt="Gi" height="150" style="border-radius:50px;"src="https://media.discordapp.net/attachments/928041453932912650/1069062114628616262/gif.gif">
+    </div>
+
+    
+![Snake animation](https://github.com/gih-ferreira/gih-ferreira/blob/output/github-contribution-grid-snake.svg)
