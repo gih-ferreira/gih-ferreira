@@ -5,6 +5,12 @@
 - ✉️ Contate-me no email: giovannaferreira-silva@hotmail.com
 - 😁 Pronouns: Ela/Dela 
 
+<div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gih-ferreira&show_icons=true&theme=dracula)
+
+</div>
+
     
 <div style="display: inline_block"><br>
 <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
